@@ -114,10 +114,10 @@ Whether you're new to penetration testing or a seasoned pro, having a solid set 
 ---
 
 ### 8. **Vulnerable Web Apps & Labs** 💻
-- **[DVWA](http://www.dvwa.co.uk/)**
+- **[DVWA](https://www.dvwa.co.uk/)**
   The Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable. It’s a great learning tool to practice web application security.
 
-- **[bWAPP](http://www.itsecgames.com/)**
+- **[bWAPP](https://www.itsecgames.com/)**
   Another vulnerable web application designed for security enthusiasts to learn about web application vulnerabilities.
 
 - **[VulnHub](https://www.vulnhub.com/)**

@@ -6,7 +6,7 @@ order: 4
 
 ## Who Am I?
 
-Hello, I'm Jusot! I am a passionate cybersecurity enthusiast, focused on mastering penetration testing. Currently, I am learning through hands-on challenges on platforms like Hack The Box and diving deep into various aspects of hacking like web exploitation, network exploitation, privilege escalation, and more. I'm constantly improving my skills and sharing tips and resources here for anyone on a similar journey.
+Hello, I'm Elimane Juuf! I am a passionate cybersecurity enthusiast, focused on mastering penetration testing. Currently, I am learning through hands-on challenges on platforms like Hack The Box and diving deep into various aspects of hacking like web exploitation, network exploitation, privilege escalation, and more. I'm constantly improving my skills and sharing tips and resources here for anyone on a similar journey.
 
 ### My Mission
 I aim to enhance my skills in penetration testing, bug bounty hunting, and security research. Through my website, I want to share what I've learned, give back to the community, and document my progress as I tackle new challenges.

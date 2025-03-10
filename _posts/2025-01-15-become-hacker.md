@@ -78,7 +78,7 @@ Choose **two**:
 | Post-Exploitation    | `socat`, `chisel`, `netcat`, `PowerView`, `Rubeus`     |
 | OSINT                | `theHarvester`, `Spiderfoot`, `GHunt`, `twint`         |
 
-> Don’t just run tools — study their output, inspect the source, and rebuild them yourself.
+> `Don’t just run tools — study their output, inspect the source, and rebuild them yourself.`{: .filepath}
 
 ---
 
@@ -153,7 +153,7 @@ Ask these questions constantly:
 6. Reporting — Clean writeups, replayable steps, proof of impact
 ```
 
-> Enumeration is 90% of the process. The better you map the target, the better your success rate.
+> `Enumeration is 90% of the process. The better you map the target, the better your success rate.`{: .filepath}
 
 ---
 
@@ -213,7 +213,7 @@ Once you’ve got your hands dirty, start looking beyond one-off hacks. Real gro
 - [ ] Join CTFs, fail, learn, repeat
 - [ ] Keep organized notes and cheat sheets
 
-> *“The best hackers don’t memorize tools. They memorize questions.”*
+> *`“The best hackers don’t memorize tools. They memorize questions.”`*{: .filepath}
 
 ---
 
@@ -221,4 +221,4 @@ Once you’ve got your hands dirty, start looking beyond one-off hacks. Real gro
 
 Start with your own machine. Break it. Rebuild it. Understand every corner.
 
-> **"Hacking is a way of thinking — not a set of tools."**
+> **`"Hacking is a way of thinking — not a set of tools."`**{: .filepath}

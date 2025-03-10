@@ -67,7 +67,7 @@ airodump-ng -c <CH> --bssid <BSSID> -w handshake wlan0mon
 aireplay-ng -0 5 -a <BSSID> -c <ClientMAC> wlan0mon
 ```
 
-> *"Wait for "WPA Handshake" message to confirm capture."*
+> `"Wait for "WPA Handshake" message to confirm capture."`{: .filepath}
 
 
 ### 5. Crack the handshake
@@ -162,5 +162,4 @@ wifite --dict /path/to/wordlist.txt
 
 ---
 
-> “You don’t need to be the fastest. You just need to be near the signal.”
-{: .prompt-tip }
+> **`“You don’t need to be the fastest. You just need to be near the signal.”`**{: .filepath}

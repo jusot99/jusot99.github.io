@@ -9,7 +9,9 @@ order: 4
 Hello, I'm Elimane Juuf! I am a passionate cybersecurity enthusiast, focused on mastering penetration testing. Currently, I am learning through hands-on challenges on platforms like Hack The Box and diving deep into various aspects of hacking like web exploitation, network exploitation, privilege escalation, and more. I'm constantly improving my skills and sharing tips and resources here for anyone on a similar journey.
 
 ### My Mission
-I aim to enhance my skills in penetration testing, bug bounty hunting, and security research. Through my website, I want to share what I've learned, give back to the community, and document my progress as I tackle new challenges.
+I strive to master a broad range of offensive security disciplines from web and network exploitation to embedded systems, wireless environments, and Active Directory infrastructure. I approach every challenge with a mindset rooted in real-world adversary techniques, continuously refining my skills to understand and secure complex systems.
+Through this site, I share my knowledge, contribute to the cybersecurity community, and document my growth as a security professional.
+I regularly train on platforms like [*Hack The Box*](https://app.hackthebox.com/profile/1448044), which provide realistic scenarios to sharpen my expertise in identifying and mitigating vulnerabilities across diverse environments.
 
 ---
 

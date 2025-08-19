@@ -179,6 +179,7 @@ Once you’ve got your hands dirty, start looking beyond one-off hacks. Real gro
 ### 🔖 Curated Learning Goldmines
 
 - [HackTricks](https://book.hacktricks.xyz/)
+- [The Hacker Recipes](https://www.thehacker.recipes)
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [Red Team Notes](https://github.com/qaisarafridi/Red-Teaming-)
 - [OSCP Cheatsheet](https://github.com/0xsyr0/OSCP)

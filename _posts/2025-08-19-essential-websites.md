@@ -1,6 +1,10 @@
 ---
-layout: post
 title: "Essential Websites Every Hacker Should Know"
+description: >
+  A curated list of websites every hacker, pentester, or security enthusiast should know. 
+  Organized by category with short descriptions and suggested usage.
+author:
+name:
 date: 2025-08-19 23:30:00 +0000
 categories: [Pentesting, Resources]
 tags: [tools, osint, malware, recon, security]
@@ -161,17 +165,17 @@ A curated list of websites every hacker, pentester, or security enthusiast shoul
 ⚠️ **Warning:** Requires Tor Browser. Use only for legal OSINT & research.  
 
 - [The Hidden Wiki](https://thehiddenwiki.org/)  
-- [Onion Wiki Mirror](http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page)  
-- [Onion Links Archive](http://donionsixbjtiohce24abfgsffo2l4tk26qx464zylumgejukfq2vead.onion/onions.php)  
+- [Onion Wiki Mirror](https://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page)  
+- [Onion Links Archive](https://donionsixbjtiohce24abfgsffo2l4tk26qx464zylumgejukfq2vead.onion/onions.php)  
 - [ProPublica Onion](https://www.propub3r6espa33w.onion)  
-- [Sci-Hub Onion](http://scihub22266oqcxt.onion/)  
-- [Dark Web Q&A](http://answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/)  
-- [Library Genesis Onion](http://ulrn6sryqaifefld.onion/)  
+- [Sci-Hub Onion](https://scihub22266oqcxt.onion/)  
+- [Dark Web Q&A](https://answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion/)  
+- [Library Genesis Onion](https://ulrn6sryqaifefld.onion/)  
 - [Facebook Onion](https://www.facebookcorewwwi.onion/)  
-- [Archive.org Onion](http://archivecaslytosk.onion/)  
-- [CIA Onion](http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion/)  
+- [Archive.org Onion](https://archivecaslytosk.onion/)  
+- [CIA Onion](https://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion/)  
 
 ---
 
-💡 **Tip:** Bookmark and organize these resources by category. Always use them ethically in **labs, CTFs, or authorized pentests** only.
+> 💡 **Tip:** Bookmark and organize these resources by category. Always use them ethically in **labs, CTFs, or authorized pentests** only.
 

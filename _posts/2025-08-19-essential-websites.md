@@ -24,11 +24,14 @@ A curated list of websites every hacker, pentester, or security enthusiast shoul
 - [Have I Been Pwned](https://haveibeenpwned.com/) – Breach data lookup. *Use for: checking email/domain compromises.*  
 - [Hunter.io](https://hunter.io/) – Email discovery. *Use for: recon on valid emails.*  
 - [crt.sh](https://crt.sh/) – SSL certificate transparency logs. *Use for: finding subdomains.*  
+- [Ping.eu](https://ping.eu/) – Online tools for ping, traceroute, whois, DNS lookups, and more.
 - [DNSDumpster](https://dnsdumpster.com/) – DNS mapping. *Use for: subdomains, MX records, IP ranges.*  
 - [Social Searcher](https://www.social-searcher.com/) – Search mentions across social media. *Use for: usernames, activity tracking.*  
 - [Web Archive / Wayback Machine](https://web.archive.org/) – Archived website versions. *Use for: old endpoints, leaks.*  
 - [LeakIX](https://leakix.net/) – Exposed servers/devices. *Use for: discovering leaks.*  
 - [FOFA](https://en.fofa.info/) – Internet asset search. *Use for: ports, devices, services.*  
+- [Am I Unique?](https://amiunique.org/) – Analyze your browser fingerprint and see how trackable you are.
+- [Cover Your Tracks (EFF)](https://coveryourtracks.eff.org/) – Test how well your browser and privacy setup protect against tracking.
 - [TruePeopleSearch](https://www.truepeoplesearch.com/) – People search engine. *Use for: public personal info.*  
 - [FastPeopleSearch](https://www.fastpeoplesearch.com/) – Alternative people lookup. *Use for: addresses, phone numbers.*  
 - [GreyNoise](https://viz.greynoise.io/) – Noise analysis. *Use for: filtering harmless vs malicious IPs.*  
@@ -40,10 +43,15 @@ A curated list of websites every hacker, pentester, or security enthusiast shoul
 - [HTTP Status Checker](https://httpstatus.io/) – Inspect HTTP codes and headers. *Use for: debugging web requests and redirects.*  
 - [Unshorten.It](https://unshorten.it/) – Expand shortened URLs. *Use for: revealing hidden destinations.*  
 - [BGPView](https://bgpview.io/) – BGP and ASN lookup. *Use for: investigating network ranges.*  
+- [Satellite Map](https://satellite-map.com/) – Satellite imagery to explore the globe, useful for OSINT investigations.  
+- [EarthCam](https://www.earthcam.com/) – Live streaming webcams from around the world, often leveraged in OSINT.  
+- [Route Views](https://www.routeviews.org/routeviews/) – Access live BGP routing table data for network reconnaissance.  
 - [Hurricane Electric BGP](https://bgp.he.net/) – BGP routing and prefix search. *Use for: network-level recon.*  
 - [IPVoid](https://www.ipvoid.com/) – IP reputation checker. *Use for: analyzing IPs for blacklists or malicious history.*  
 - [AbuseIPDB](https://www.abuseipdb.com/) – IP abuse reporting database. *Use for: checking if an IP is reported for attacks.*  
 - [NSLookup.io](https://www.nslookup.io/) – DNS record lookup. *Use for: inspecting DNS configuration.*
+- [WebStatsDomain](https://webstatsdomain.org/) — Domain stats and metadata  
+- [Dnschecker](https://dnschecker.org/) — Global DNS propagation checks  
 
 ---
 
@@ -103,17 +111,25 @@ A curated list of websites every hacker, pentester, or security enthusiast shoul
 
 ## 📚 Hacking & Security References
 - [HackTricks](https://book.hacktricks.xyz/) – Hacking techniques & cheatsheets. *Use for: pentest guidance.*  
+- [0xdf’s Blog](https://0xdf.gitlab.io/) — High-quality HTB & CTF writeups  
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) – Massive collection of hacking tools and resources.  
 - [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) – Curated list of bug bounty resources.  
-- [TBHM](https://github.com/jhaddix/tbhm) – The Bug Hunter’s Methodology (Jason Haddix).
+- [TBHM](https://github.com/jhaddix/tbhm) – The Bug Hunter’s Methodology (Jason Haddix).  
+- [pwnhub](https://github.com/jusot99/pwnhub) – A growing collection of hacking writeups, scripts, and resources.  
+- [Injectpy](https://github.com/jusot99/Injectpy) – A Python tool for advanced payload injection and exploitation testing.
 - [Awesome Red Team Cheatsheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet) – A massive collection of red team tactics, tools, and references.  
 - [Ghostpack Compiled Binaries](https://github.com/r3motecontrol/Ghostpack-CompiledBinaries) – Precompiled Ghostpack binaries useful for red team operations.  
 - [HackerTyper](https://hackertyper.net/#) – Fun website to “look like” you’re coding like a hacker.  
 - [Hacker News](https://news.ycombinator.com/news) – Daily tech, security, and startup news.  
-- [The Hacker Recipes](https://www.thehacker.recipes/) – A comprehensive knowledge base of offensive security techniques, tactics, and playbooks.
-- [Exploit Database](https://www.exploit-db.com) – Public exploits & proof-of-concepts.  
-- [Packet Storm](https://packetstormsecurity.com) – Exploits, advisories, and security tools.  
+- [The Hacker Recipes](https://www.thehacker.recipes/) – A comprehensive knowledge base of offensive security techniques, tactics, and playbooks.  
 - [0day.today](https://0day.today) – Exploit and vulnerability database.  
+- [HackerRepo](https://hackerrepo.org/) – Curated repository of hacking and security resources.
+- [SQLi Pentest Toolkit](https://adce626.github.io/SQLi-Pentest-Toolkit/) — SQL Injection exploitation utilities
+- [LostSec](https://lostsec.xyz/) – A great collection of offensive security knowledge and techniques.  
+- [KC7 Cyber](https://kc7cyber.com/) — Cybersecurity wargame for students  
+- [Codingame](https://www.codingame.com/start/) – Solve programming puzzles and compete through gamified coding challenges.  
+- [Microcorruption](https://microcorruption.com/) – A gamified reverse engineering CTF with embedded systems focus.  
+- [Crackmes.one](https://crackmes.one/) – A huge archive of crackmes to train your reverse engineering and binary exploitation skills.  
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) – Attack payloads collection. *Use for: XSS, SQLi, LFI, RCE.*  
 - [Bug Bounty Cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) – Bug bounty methodology. *Use for: hunting workflow.*  
 - [IntelX](https://intelx.io/) – Leak search engine. *Use for: leaked docs, emails, creds.*  
@@ -177,5 +193,5 @@ A curated list of websites every hacker, pentester, or security enthusiast shoul
 
 ---
 
-> 💡 **Tip:** Bookmark and organize these resources by category. Always use them ethically in **labs, CTFs, or authorized pentests** only.
+> **`Tip:Bookmark and organize these resources by category. Always use them ethically in labs, CTFs, or authorized pentests only.`**{: .filepath}
 

@@ -52,6 +52,7 @@ A curated list of websites every hacker, pentester, or security enthusiast shoul
 - [NSLookup.io](https://www.nslookup.io/) – DNS record lookup. *Use for: inspecting DNS configuration.*
 - [WebStatsDomain](https://webstatsdomain.org/) — Domain stats and metadata  
 - [Dnschecker](https://dnschecker.org/) — Global DNS propagation checks  
+- [PortChecker.io](https://portchecker.io/) – Check open ports on your network or a remote host. *Use for: quick port scanning and network accessibility testing.*  
 
 ---
 
@@ -106,6 +107,7 @@ A curated list of websites every hacker, pentester, or security enthusiast shoul
 - [Boostfluence Instagram Viewer](https://www.boostfluence.com/free-tools/instagram-profile-viewer) – Anonymous Instagram viewing. *Use for: social OSINT.*  
 - [Temp-Mail](https://temp-mail.org/) – Disposable emails. *Use for: anon registrations.*  
 - [SMS24](https://sms24.me/en) – Temporary phone numbers. *Use for: SMS verification bypass.*  
+- [Globfone](https://globfone.com/) – Free online SMS, calls, and file sharing. *Use for: temporary messaging, anonymous communication.*  
 
 ---
 

@@ -118,7 +118,6 @@ A curated list of websites every hacker, pentester, or security enthusiast shoul
 - [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) – Curated list of bug bounty resources.  
 - [TBHM](https://github.com/jhaddix/tbhm) – The Bug Hunter’s Methodology (Jason Haddix).  
 - [pwnhub](https://github.com/jusot99/pwnhub) – A growing collection of hacking writeups, scripts, and resources.  
-- [Injectpy](https://github.com/jusot99/Injectpy) – A Python tool for advanced payload injection and exploitation testing.
 - [Awesome Red Team Cheatsheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet) – A massive collection of red team tactics, tools, and references.  
 - [Ghostpack Compiled Binaries](https://github.com/r3motecontrol/Ghostpack-CompiledBinaries) – Precompiled Ghostpack binaries useful for red team operations.  
 - [HackerTyper](https://hackertyper.net/#) – Fun website to “look like” you’re coding like a hacker.  

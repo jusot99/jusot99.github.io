@@ -8,7 +8,6 @@ name:
 date: 2025-09-17 12:00:00 +0000 
 categories: [Programming] 
 tags: [python, hacking, scripting, automation, exploitation, programming] 
-pin: true
 ---
 
 > _"Python isn't just a language — it's the hacker's Swiss Army knife. Master it, and you master the art of automation."_ 

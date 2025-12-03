@@ -144,7 +144,7 @@ A curated list of websites every hacker, pentester, or security enthusiast shoul
 - [IntelX](https://intelx.io/) – Leak search engine. *Use for: leaked docs, emails, creds.*  
 - [Notes by Ben Heater](https://notes.benheater.com/) – Security notes repo. *Use for: learning material.*  
 - [Patorjk.com](https://patorjk.com/) – Text & ASCII utilities. *Use for: ASCII art, text manipulation.*  
-- [ired.team](https://www.ired.team/) – Red team and offensive security techniques, tutorials, and references. *Use for: learning attack methodologies and techniques.*
+- [ired.team](https://www.ired.team/) – Red team and offensive security techniques, tutorials, and references. *Use for: learning attack methodologies and techniques.*  
 
 ---
 

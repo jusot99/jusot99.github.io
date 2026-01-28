@@ -17,6 +17,7 @@ A curated list of websites every hacker, pentester, or security enthusiast shoul
 ---
 
 ## 🕵️ OSINT & Recon
+
 - [OSINT Framework](https://osintframework.com/) – Collection of OSINT tools organized by category. *Use for: emails, domains, social profiles, metadata.*  
 - [Shodan](https://www.shodan.io/) – Search engine for internet-connected devices. *Use for: finding exposed devices/services.*  
 - [Censys](https://search.censys.io/) – Search engine for certificates and hosts. *Use for: discovering vulnerable infrastructure.*  
@@ -57,6 +58,7 @@ A curated list of websites every hacker, pentester, or security enthusiast shoul
 ---
 
 ## ☣️ Malware & Threat Analysis
+
 - [VirusTotal](https://www.virustotal.com/gui/home/url) – Scan files, URLs, and domains. *Use for: malware detection.*  
 - [Hybrid Analysis](https://hybrid-analysis.com/) – Online malware sandbox. *Use for: suspicious file analysis.*  
 - [Any.run](https://any.run/) – Interactive malware analysis. *Use for: live malware behavior tracking.*  
@@ -70,6 +72,7 @@ A curated list of websites every hacker, pentester, or security enthusiast shoul
 ---
 
 ## 🔑 Passwords & Hashes
+
 - [CrackStation](https://crackstation.net/) – Password hash cracking. *Use for: recovering plain-text passwords.*  
 - [MD5Decrypt](https://md5decrypt.net/en/) – Hash decryption. *Use for: MD5, SHA1 lookups.*  
 - [Hashes.com](https://hashes.com/en/decrypt/hash) – Online hash cracking. *Use for: multiple hash types.*  
@@ -77,6 +80,7 @@ A curated list of websites every hacker, pentester, or security enthusiast shoul
 ---
 
 ## 💣 Vulnerability & Exploit Research
+
 - [Exploit-DB](https://www.exploit-db.com/) – Exploit database. *Use for: public PoCs.*  
 - [CVE Details](https://www.cvedetails.com/) – CVE database. *Use for: software/vendor vulnerabilities.*  
 - [NVD](https://nvd.nist.gov/) – Official CVE database. *Use for: CVE lookups, scoring.*  
@@ -86,6 +90,7 @@ A curated list of websites every hacker, pentester, or security enthusiast shoul
 ---
 
 ## 🌐 Recon & Infrastructure Info
+
 - [IPinfo](https://ipinfo.io/) – IP & ASN lookup. *Use for: mapping network infrastructure.*  
 - [ZoomEye](https://www.zoomeye.ai/) – IoT/device search engine. *Use for: exposed services.*  
 - [JWT Auditor](https://jwtauditor.com/) – JWT inspection. *Use for: token misconfig checks.*  
@@ -94,6 +99,7 @@ A curated list of websites every hacker, pentester, or security enthusiast shoul
 ---
 
 ## ⚔️ Reverse Shells & Exploitation
+
 - [Reverse Shells](https://www.revshells.com/) – Reverse shell generator. *Use for: payload creation.*  
 - [GTFOBins](https://gtfobins.github.io/) – Unix privilege escalation tricks. *Use for: post-exploitation.*  
 - [LOLBAS](https://lolbas-project.github.io/) – Windows binaries abuse. *Use for: Windows privilege escalation.*  
@@ -103,6 +109,7 @@ A curated list of websites every hacker, pentester, or security enthusiast shoul
 ---
 
 ## 🎭 Phishing & Privacy
+
 - [PhishTank](https://www.phishtank.com/) – Phishing database. *Use for: URL phishing checks.*  
 - [Boostfluence Instagram Viewer](https://www.boostfluence.com/free-tools/instagram-profile-viewer) – Anonymous Instagram viewing. *Use for: social OSINT.*  
 - [Temp-Mail](https://temp-mail.org/) – Disposable emails. *Use for: anon registrations.*  
@@ -112,6 +119,7 @@ A curated list of websites every hacker, pentester, or security enthusiast shoul
 ---
 
 ## 📚 Hacking & Security References
+
 - [HackTricks](https://book.hacktricks.xyz/) – Hacking techniques & cheatsheets. *Use for: pentest guidance.*  
 - [0xdf’s Blog](https://0xdf.gitlab.io/) — High-quality HTB & CTF writeups  
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) – Massive collection of hacking tools and resources.  
@@ -136,15 +144,18 @@ A curated list of websites every hacker, pentester, or security enthusiast shoul
 - [IntelX](https://intelx.io/) – Leak search engine. *Use for: leaked docs, emails, creds.*  
 - [Notes by Ben Heater](https://notes.benheater.com/) – Security notes repo. *Use for: learning material.*  
 - [Patorjk.com](https://patorjk.com/) – Text & ASCII utilities. *Use for: ASCII art, text manipulation.*  
+- [ired.team](https://www.ired.team/) – Red team and offensive security techniques, tutorials, and references. *Use for: learning attack methodologies and techniques.*  
 
 ---
 
 ## 🛰️ Threat Modeling & Frameworks
+
 - [MITRE ATT&CK](https://attack.mitre.org/) – Knowledge base of adversary TTPs. *Use for: detection, attack mapping.*  
 
 ---
 
 ## 📂 OSINT GitHub Repositories
+
 - [Telegram OSINT](https://github.com/cqcore/Telegram-OSINT)  
 - [Data Acquisition OSINT](https://github.com/The-Osint-Toolbox/Data-OSINT)  
 - [Social Media OSINT](https://github.com/The-Osint-Toolbox/Social-Media-OSINT)  
@@ -159,12 +170,14 @@ A curated list of websites every hacker, pentester, or security enthusiast shoul
 - [OSINT Practitioners](https://github.com/The-Osint-Toolbox/OSINT-Practitioners)  
 
 ### 🔍 Search Tools & Techniques
+
 - [Advanced Searching OSINT](https://github.com/The-Osint-Toolbox/OSINT-Advanced-Searching)  
 - [Custom Search Engines](https://github.com/The-Osint-Toolbox/Custom-Search-Engines)  
 - [URL-Manipulation OSINT](https://github.com/The-Osint-Toolbox/URL-Manipulation)  
 - [Fact Checking OSINT](https://github.com/The-Osint-Toolbox/Fact-Checking-Verification)  
 
 ### 🎯 Specific OSINT Areas
+
 - [Darkweb OSINT](https://github.com/The-Osint-Toolbox/Darkweb-OSINT)  
 - [WiFi OSINT](https://github.com/The-Osint-Toolbox/WiFi-OSINT)  
 - [Vehicle OSINT](https://github.com/The-Osint-Toolbox/Vehicle-OSINT)  
@@ -172,6 +185,7 @@ A curated list of websites every hacker, pentester, or security enthusiast shoul
 - [Fitness OSINT](https://github.com/The-Osint-Toolbox/Fitness-Leisure-OSINT)  
 
 ### 🛡️ Privacy & OPSEC
+
 - [Privacy Infosec Tools](https://github.com/The-Osint-Toolbox/Privacy-Infosec-Tools-Resources)  
 - [VPN Providers OSINT](https://github.com/The-Osint-Toolbox/VPN-Providers)  
 - [Privacy Opt-Out OSINT](https://github.com/The-Osint-Toolbox/Privacy-Opt-Out)  
@@ -179,6 +193,7 @@ A curated list of websites every hacker, pentester, or security enthusiast shoul
 ---
 
 ## 🌑 Dark Web Resources ⚠️
+
 ⚠️ **Warning:** Requires Tor Browser. Use only for legal OSINT & research.  
 
 - [The Hidden Wiki](https://thehiddenwiki.org/)  
@@ -195,4 +210,3 @@ A curated list of websites every hacker, pentester, or security enthusiast shoul
 ---
 
 > **`Tip:Bookmark and organize these resources by category. Always use them ethically in labs, CTFs, or authorized pentests only.`**{: .filepath}
-

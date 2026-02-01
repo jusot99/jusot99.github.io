@@ -132,7 +132,7 @@ A curated list of websites every hacker, pentester, or security enthusiast shoul
 - [Hacker News](https://news.ycombinator.com/news) – Daily tech, security, and startup news.  
 - [The Hacker Recipes](https://www.thehacker.recipes/) – A comprehensive knowledge base of offensive security techniques, tactics, and playbooks.  
 - [0day.today](https://0day.today) – Exploit and vulnerability database.  
-- [HackerRepo](https://hackerrepo.org/) – Curated repository of hacking and security resources.
+- [HackerRepo](https://hackerrepo.org/) – Curated repository of hacking and security resources.  
 - [SQLi Pentest Toolkit](https://adce626.github.io/SQLi-Pentest-Toolkit/) — SQL Injection exploitation utilities
 - [LostSec](https://lostsec.xyz/) – A great collection of offensive security knowledge and techniques.  
 - [KC7 Cyber](https://kc7cyber.com/) — Cybersecurity wargame for students  

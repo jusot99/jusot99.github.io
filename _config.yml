@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: Jusot99                     # the main title
 
-tagline: Code Until You Code Yourself # it will display as the subtitle
+tagline: Systems never lie. You just have to listen closely… and never ctrl+c the evidence. # it will display as the subtitle
 
 description: >-                         # used by seo meta and the atom feed
   Learning, hacking, and coding my way to mastery — one line at a time.
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/avatar/avatar.webp
+avatar: /assets/img/avatar/avatar.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

@@ -10,7 +10,7 @@ categories: [Programming]
 tags: [python, hacking, scripting, automation, exploitation, programming] 
 ---
 
-> _"Python isn't just a language — it's the hacker's Swiss Army knife. Master it, and you master the art of automation."_ 
+> _"Python isn't just a language, it's the hacker's Swiss Army knife. Master it, and you master the art of automation."_ 
 {: .prompt-tip }
 
 ## Phase 0 — The Python Hacker Mindset
@@ -29,7 +29,7 @@ tags: [python, hacking, scripting, automation, exploitation, programming]
 
 ---
 
-## Phase 1 — Core Python Foundations
+## Phase 1: Core Python Foundations
 
 ### 1. Essential Syntax & Data Types
 
@@ -87,7 +87,7 @@ def port_scan(target, ports):
 
 ---
 
-## Phase 2 — Functions & Error Handling
+## Phase 2: Functions & Error Handling
 
 ### 1. Building Reusable Security Functions
 
@@ -147,12 +147,12 @@ def safe_request(url, headers=None, timeout=10):
         return {"error": str(e), "success": False}
 ```
 
-> Error handling isn't optional in security tools — it's what separates amateurs from professionals. 
+> Error handling isn't optional in security tools, it's what separates amateurs from professionals. 
 {: .prompt-warning }
 
 ---
 
-## Phase 3 — File Operations & Data Parsing
+## Phase 3: File Operations & Data Parsing
 
 ### 1. Reading Wordlists and Payloads
 
@@ -236,7 +236,7 @@ def parse_access_logs(log_file):
 
 ---
 
-## Phase 4 — Networking & Socket Programming
+## Phase 4: Networking & Socket Programming
 
 ### 1. TCP/UDP Socket Programming
 
@@ -363,7 +363,7 @@ class WebScanner:
 
 ---
 
-## Phase 5 — Advanced Python for Exploitation
+## Phase 5: Advanced Python for Exploitation
 
 ### 1. Binary Exploitation Helpers
 
@@ -463,7 +463,7 @@ class CryptoHelper:
 
 ---
 
-## Phase 6 — Web Application Testing
+## Phase 6: Web Application Testing
 
 ### 1. Automated Vulnerability Scanner
 
@@ -581,7 +581,7 @@ class WebVulnScanner:
 
 ---
 
-## Phase 7 — Automation & Frameworks
+## Phase 7: Automation & Frameworks
 
 ### 1. Building a Recon Framework
 
@@ -688,9 +688,9 @@ if __name__ == "__main__":
 
 ---
 
-## Phase 8 — Essential Libraries for Hackers
+## Phase 8: Essential Libraries for Hackers
 
-### Security-Focused Libraries
+### Security Focused Libraries
 
 ```python
 # Network and HTTP
@@ -778,7 +778,7 @@ if __name__ == "__main__":
 
 ---
 
-## Phase 9 — Real-World Projects
+## Phase 9: Real-World Projects
 
 ### Project 1: Multi-threaded Port Scanner
 
@@ -1075,7 +1075,7 @@ if __name__ == "__main__":
 
 ---
 
-## Phase 10 — Python for Exploit Development
+## Phase 10: Python for Exploit Development
 
 ### 1. Buffer Overflow Exploitation
 
@@ -1294,7 +1294,7 @@ if __name__ == "__main__":
 
 ---
 
-## Phase 11 — Advanced Automation & Frameworks
+## Phase 11: Advanced Automation & Frameworks
 
 ### 1. Custom Vulnerability Assessment Framework
 
@@ -1575,7 +1575,7 @@ if __name__ == "__main__":
 
 ---
 
-## Phase 12 — Daily Practice & Mindset
+## Phase 12: Daily Practice & Mindset
 
 ### The Hacker's Python Workout
 
@@ -1816,7 +1816,7 @@ echo "✅ Python hacker environment ready!"
 ---
 ## Final Words: Your Python Journey
 
-> _`"Python isn't just code — it's how hackers think. Master the language, master the craft."`_
+> _`"Python isn't just code, it's how hackers think. Master the language, master the craft."`_
 {: .filepath}
 
 ### The Path Forward
@@ -2508,9 +2508,9 @@ if __name__ == "__main__":
 
 ### Remember
 
-Python is not just a programming language — it's your gateway to understanding systems, networks, and security at a fundamental level. Every line of code you write makes you a better hacker, a better problem solver, and a better professional.
+Python is not just a programming language, it's your gateway to understanding systems, networks, and security at a fundamental level. Every line of code you write makes you a better hacker, a better problem solver, and a better professional.
 
-> _`"The best hackers don't just use tools — they build them. And the best tools are built with Python."`_
+> _`"The best hackers don't just use tools, they build them. And the best tools are built with Python."`_
 {: .filepath}
 
 **Start coding. Start thinking. Start hacking.**

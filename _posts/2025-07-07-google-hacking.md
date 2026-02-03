@@ -1,7 +1,7 @@
 ---
 title: "Google Hacking: The Ultimate Recon Mindset & Cheat Sheet"
 description: >
-  Google hacking isn’t about fancy queries — it’s about seeing the internet like an attacker.
+  Google hacking isn’t about fancy queries, it’s about seeing the internet like an attacker.
   This guide builds your recon mindset, then arms you with the strongest dorks to uncover exposed secrets, forgotten files, and hidden doors.
 author:
 name:
@@ -113,9 +113,9 @@ ddgr 'ext:log | ext:env | ext:sql site:.com'
 
 ### 🛠 Supercharge with These
 
-* [DorkGPT](https://www.dorkgpt.com/) — generates tailored dorks by goal (passwords, backups, camera feeds).
-* [DorkSearch](https://dorksearch.com/) — lets you input targets and refine with easy operators.
-* [Exploit-DB GHDB](https://www.exploit-db.com/google-hacking-database) — thousands of proven dorks.
+* [DorkGPT](https://www.dorkgpt.com/) generates tailored dorks by goal (passwords, backups, camera feeds).
+* [DorkSearch](https://dorksearch.com/) lets you input targets and refine with easy operators.
+* [Exploit-DB GHDB](https://www.exploit-db.com/google-hacking-database) thousands of proven dorks.
 
 > If Google starts throttling you, switch to DuckDuckGo or Yandex for a new index view.
 > {: .prompt-info }

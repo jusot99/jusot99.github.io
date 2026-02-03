@@ -1,7 +1,7 @@
 ---
-title: "Real Network Hacking: Step-by-Step Attack Flow"
+title: "Real Network Hacking: Step by Step Attack Flow"
 description: >-
-  This guide walks through the full process of hacking a network — from recon to gaining domain control. Internal or wireless — here's how it's done.
+  This guide walks through the full process of hacking a network from recon to gaining domain control. Internal or wireless, here's how it's done.
 author:
 name:
 date: 2025-02-12 13:00:00 +0000
@@ -9,9 +9,9 @@ categories: [Pentesting]
 tags: [network, hacking, internal, wifi, mitm, lateral]
 ---
 
-> “Hackers don’t just scan — they map, infiltrate, and move silently across layers.”
+> “Hackers don’t just scan they map, infiltrate, and move silently across layers.”
 {: .prompt-info }
-This post shows how real hackers compromise networks. Internal corp LANs, WiFi, or exposed edge — it's all about control.
+This post shows how real hackers compromise networks. Internal corp LANs, WiFi, or exposed edge it's all about control.
 
 ---
 
@@ -105,7 +105,7 @@ evil-winrm -i <IP> -u admin -p password
 
 ## 5. Lateral Movement
 
-> *`"Once you're in — the goal is **domain admin**. Pivoting begins."`*{: .filepath}
+> *`"Once you're in the goal is **domain admin**. Pivoting begins."`*{: .filepath}
 
 ### Use Compromised Creds
 ```bash
@@ -155,7 +155,7 @@ Use:
 - `kerbrute`, `impacket` for relays + coercion
 - Abuse delegation / GPP / password reuse
 
-> LAPS, printers, DNSAdmin, GPP, DCSync — all lead to Domain Admin when misconfigured.
+> LAPS, printers, DNSAdmin, GPP, DCSync all lead to Domain Admin when misconfigured.
 {: .prompt-tip }
 ---
 

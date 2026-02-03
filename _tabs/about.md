@@ -43,11 +43,11 @@ I regularly train on platforms like [*Hack The Box*](https://app.hackthebox.com/
 
 Here are some resources I highly recommend:
 
-- [Hack The Box](https://www.hackthebox.eu/) – A great platform to improve your penetration testing skills.
-- [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) – A comprehensive guide to various web application security topics.
-- [TryHackMe](https://tryhackme.com/) – Another fantastic platform for CTFs and learning security concepts.
-- [PentesterLab](https://www.pentesterlab.com/) – A great place to get hands-on with web application security.
-- [Hack In The Box](https://www.hitb.org/) – A well-known cybersecurity event series that also provides training.
+- [Hack The Box](https://www.hackthebox.eu/) A great platform to improve your penetration testing skills.
+- [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) A comprehensive guide to various web application security topics.
+- [TryHackMe](https://tryhackme.com/) Another fantastic platform for CTFs and learning security concepts.
+- [PentesterLab](https://www.pentesterlab.com/) A great place to get hands-on with web application security.
+- [Hack In The Box](https://www.hitb.org/) A well-known cybersecurity event series that also provides training.
 
 ---
 

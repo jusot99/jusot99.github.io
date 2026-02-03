@@ -15,7 +15,7 @@ pin: true
 
 ---
 
-## Phase 0 — Develop the Hacker Mindset
+## Phase 0: Develop the Hacker Mindset
 
 - **Curiosity over Skill**
   Always ask how and why. Obsess over systems, not just results.
@@ -34,7 +34,7 @@ pin: true
 
 ---
 
-## Phase 1 — Build a Strong Technical Foundation
+## Phase 1: Build a Strong Technical Foundation
 
 ### 1. Systems Knowledge
 
@@ -67,7 +67,7 @@ Choose **two**:
 
 ---
 
-## Phase 2 — Master the Core Tools (Manually)
+## Phase 2: Master the Core Tools (Manually)
 
 | Category             | Tools                                                  |
 |----------------------|--------------------------------------------------------|
@@ -78,11 +78,11 @@ Choose **two**:
 | Post-Exploitation    | `socat`, `chisel`, `netcat`, `PowerView`, `Rubeus`     |
 | OSINT                | `theHarvester`, `Spiderfoot`, `GHunt`, `twint`         |
 
-> `Don’t just run tools — study their output, inspect the source, and rebuild them yourself.`{: .filepath}
+> `Don’t just run tools! study their output, inspect the source, and rebuild them yourself.`{: .filepath}
 
 ---
 
-## Phase 3 — Train Like a Hacker
+## Phase 3: Train Like a Hacker
 
 ### Practice Platforms
 
@@ -105,7 +105,7 @@ Choose **two**:
 
 ---
 
-## Phase 4 — Build Your Arsenal
+## Phase 4: Build Your Arsenal
 
 Structure your GitHub:
 
@@ -126,7 +126,7 @@ ffuf -w /usr/share/seclists/Discovery/Web-Content/common.txt -u http://$1/FUZZ -
 
 ---
 
-## Phase 5 — Think Like a Hacker
+## Phase 5: Think Like a Hacker
 
 Ask these questions constantly:
 
@@ -140,7 +140,7 @@ Ask these questions constantly:
 
 ---
 
-## Phase 6 — Operate Like a Professional
+## Phase 6: Operate Like a Professional
 
 ### Typical Workflow
 
@@ -157,7 +157,7 @@ Ask these questions constantly:
 
 ---
 
-## Phase 7 — Think Long-Term: Strategy & Evolution
+## Phase 7: Think Long-Term: Strategy & Evolution
 
 Once you’ve got your hands dirty, start looking beyond one-off hacks. Real growth happens when you build systems of knowledge and improvement.
 
@@ -171,9 +171,9 @@ Once you’ve got your hands dirty, start looking beyond one-off hacks. Real gro
 
 ---
 
-## Phase 8 — Study These Resources Hard
+## Phase 8: Study These Resources Hard
 
-> Your toolkit isn’t just tools — it’s what you read, who you follow, and how you apply what you learn.
+> Your toolkit isn’t just tools, it’s what you read, who you follow, and how you apply what you learn.
 {: .prompt-info }
 
 ### 🔖 Curated Learning Goldmines
@@ -204,7 +204,7 @@ Once you’ve got your hands dirty, start looking beyond one-off hacks. Real gro
 
 ---
 
-## TL;DR — The Hacker's Checklist
+## TL;DR The Hacker's Checklist
 
 - [ ] Master Linux & Bash
 - [ ] Learn Python deeply
@@ -222,4 +222,4 @@ Once you’ve got your hands dirty, start looking beyond one-off hacks. Real gro
 
 Start with your own machine. Break it. Rebuild it. Understand every corner.
 
-> **`"Hacking is a way of thinking — not a set of tools."`**{: .filepath}
+> **`"Hacking is a way of thinking Not a set of tools."`**{: .filepath}

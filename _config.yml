@@ -19,7 +19,7 @@ title: Jusot99                     # the main title
 tagline: Systems never lie. You just have to listen closely… and never ctrl+c the evidence. # it will display as the subtitle
 
 description: >-                         # used by seo meta and the atom feed
-  Learning, hacking, and coding my way to mastery — one line at a time.
+  Learning, hacking, and coding my way to mastery one line at a time.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -42,7 +42,7 @@ social:
     - https://github.com/jusot99 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/jelimm
 
 # Site Verification Settings
 webmaster_verifications:

@@ -6,9 +6,14 @@ order: 4
 
 ## Elimane D.
 
-**Offensive Security Researcher**
+**Offensive Security Specialist**
 
-I focus on hands-on offensive security research, realistic attack simulations, and building custom tooling. My work is all about understanding how systems fail, chaining weaknesses, and turning technical insights into practical security knowledge.
+I focus on hands-on offensive security and practical penetration testing, working in controlled lab environments to understand how systems fail and how to secure them effectively.
 
-Most of my research, tools, and notes live in [PwnHub](https://github.com/jusot99/pwnhub), my public offensive security arsenal. I continuously train, experiment, and document my work through labs, tooling, and writeups. You can follow my progress and activity on [Hack The Box](https://app.hackthebox.com/profile/1448044).
+My experience covers Linux and Windows systems, web applications, internal networks, and identity-based environments. I regularly practice techniques such as privilege escalation, lateral movement, post-exploitation, and security assessments to simulate real-world threats and improve defensive posture.
 
+I build custom tools and automation in Python, Bash, and PowerShell, and I document everything I learn through labs, writeups, and open-source projects.
+
+Most of my research, tools, and notes are published in [PwnHub](https://github.com/jusot99/pwnhub), my public repository where I share scripts, experiments, and practical security workflows. You can also follow my training and challenge progress on [Hack The Box](https://app.hackthebox.com/profile/1448044).
+
+Everything here is built for learning, responsible testing, and helping systems become more secure.

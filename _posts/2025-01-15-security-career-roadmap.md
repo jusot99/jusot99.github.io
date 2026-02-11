@@ -8,6 +8,8 @@ date: 2025-01-15 18:00:00 +0000
 categories: [Research]
 tags: [security, mindset, roadmap, skills, realhacker, redteam, learning]
 pin: true
+image:
+  path: /assets/posts/security-career-roadmap.png
 ---
 
 > *"You don’t become a hacker by learning exploits. You become one by understanding systems, deeply."*

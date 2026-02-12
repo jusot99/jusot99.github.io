@@ -1,19 +1,22 @@
 ---
-title: "Python for Hackers: From Zero to Exploit Developer"
+title: "Python for Security Engineering: Automation, Tooling, and Assessment Workflows"
 description: >-
-  Master Python the hacker way. From basic syntax to advanced exploitation techniques, networking, and automation. 
-  This is the complete roadmap to Python mastery for security professionals. 
+  A practical, engineering-focused guide to using Python for security assessments, automation, 
+  and internal tooling. Covers scripting fundamentals, network interaction, data handling, 
+  and building reliable utilities for real-world engagements.
 author: 
 name: 
 date: 2025-09-17 12:00:00 +0000 
-categories: [Programming] 
-tags: [python, hacking, scripting, automation, exploitation, programming] 
+categories: [Automation] 
+tags: [python, scripting, automation, exploitation, engineering, programming] 
+image:
+  path: /assets/posts/python-security-tooling.png
 ---
 
-> _"Python isn't just a language, it's the hacker's Swiss Army knife. Master it, and you master the art of automation."_ 
+> _"Python reduces operational friction. Anything repeatable should be automated."_ 
 {: .prompt-tip }
 
-## Phase 0 — The Python Hacker Mindset
+## Phase 0: Engineering Mindset for Security Automation
 
 - **Think in Scripts, Not Commands** Every repetitive task should become a Python script.
     
@@ -2510,7 +2513,7 @@ if __name__ == "__main__":
 
 Python is not just a programming language, it's your gateway to understanding systems, networks, and security at a fundamental level. Every line of code you write makes you a better hacker, a better problem solver, and a better professional.
 
-> _`"The best hackers don't just use tools, they build them. And the best tools are built with Python."`_
+> _`"Professionals don’t repeat tasks manually. They engineer tools once, reuse them strategically, and create impact."`_
 {: .filepath}
 
 **Start coding. Start thinking. Start hacking.**

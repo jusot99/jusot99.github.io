@@ -1,18 +1,24 @@
 ---
-title: "Essential Websites Every Hacker Should Know"
+title: "Research Resources for Security Assessments"
 description: >
-  A curated list of websites every hacker, pentester, or security enthusiast should know. 
-  Organized by category with short descriptions and suggested usage.
+  A curated reference of platforms, datasets, and tools used during security assessments,
+  threat research, and infrastructure analysis. Organized by workflow with practical context.
 author:
 name:
 date: 2025-08-19 23:30:00 +0000
-categories: [Pentesting, Resources]
-tags: [tools, osint, malware, recon, security]
+categories: [Research]
+tags: [osint, reconnaissance, threat-intelligence, vulnerability-research, security-operations]
+image:
+  path: /assets/posts/security-resources.png
 ---
 
-# Essential Websites Every Hacker Should Know
+This directory consolidates the platforms and services used across professional security assessments, infrastructure reviews, and technical research engagements.
 
-A curated list of websites every hacker, pentester, or security enthusiast should know. Organized by category with short descriptions and suggested usage.
+Effective security work is less about collecting tools and more about understanding which sources provide reliable signal. The resources below support each stage of the assessment lifecycle: discovery, exposure analysis, threat intelligence, vulnerability research, and validation.
+
+The objective is consistency, accuracy, and operational efficiency.
+
+Treat this document as a working reference for practitioners who need dependable information quickly and without noise.
 
 ---
 

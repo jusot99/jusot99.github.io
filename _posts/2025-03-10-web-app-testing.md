@@ -1,16 +1,46 @@
 ---
-title: "Hack the Web: Real-World Web Application Pentesting Flow"
+title: "Web Application Security Assessment Methodology"
 description: >-
-  Forget theory, this is how real hackers test web apps. From recon to RCE, here's the step-by-step attack flow used in the wild.
+  A structured and repeatable workflow for assessing modern web applications.
+  Focused on attack surface mapping, business logic validation, and controlled
+  exploitation rather than tool-driven scanning.
 author:
 name:
 date: 2025-03-10 18:00:00 +0000
-categories: [Pentesting]
-tags: [web, hacking, xss, sqli, rce, recon, bugbounty]
+categories: [Offensive]
+tags: [web, appsec, xss, sqli, rce, recon, bugbounty, security-testing]
+image:
+  path: /assets/posts/web-app-testing.png
 ---
+
+Modern web security assessments are rarely won with payload lists or automated scanners.
+
+Most high-impact findings come from:
+
+- broken trust boundaries  
+- weak authorization logic  
+- exposed internal functionality  
+- operational misconfigurations  
+
+Tools assist.  
+Methodology determines success.
+
+This is the structured workflow I use during professional engagements.
 
 > “The surface is just HTML. The real vulnerabilities hide behind logic, endpoints, and trust.”
 {: .prompt-info }
+
+## Assessment Philosophy
+
+During professional engagements, prioritize:
+
+- Attack surface reduction before exploitation
+- Manual logic analysis before automation
+- Impact demonstration over proof-of-concept noise
+- Reproducibility and clear reporting
+
+Tools execute tests.  
+Reasoning finds vulnerabilities.
 
 ---
 
@@ -18,16 +48,16 @@ tags: [web, hacking, xss, sqli, rce, recon, bugbounty]
 
 ### Subdomain & Directory Hunting
 ```bash
-subfinder -d target.com -o subs.txt
-dirsearch -u https://target.com -e php,js,html,asp
-sublist3r -d target.com -o subdomains.txt
+ffuf -c -w /usr/share/seclists/Discovery/Web-Content/common.txt -u https://target.com/FUZZ -mc all -ac
+feroxbuster -u https://target.com
+curl -s "https://crt.sh/?q=%25.target.com&output=json" | jq -r '.[].name_value' | sort -u > crtsh-subs.txt
 ```
 
 ### Tech Fingerprinting
 ```bash
+curl -sI "https://target.com" | grep -i "server\|powered"
 whatweb https://target.com
 nmap -sV -p 80,443 target.com
-httpx -status-code -tech-detect -title -silent > live.txt
 ```
 
 > Look for forgotten admin panels, hidden APIs, staging servers, or unused subdomains that could be entry points.
@@ -35,7 +65,7 @@ httpx -status-code -tech-detect -title -silent > live.txt
 
 ### Web Server and Firewall Fingerprinting
 ```bash
-wappalyzer https://target.com
+wafw00f https://example.com
 nmap -p 80,443 --script http-enum target.com
 ```
 
@@ -266,9 +296,10 @@ Look for:
 
 ## Next Steps / Labs
 
-- Hack The Box: `Injection`, `Traverxec`, `Jeeves`, `SwagShop`
-- Try OWASP Juice Shop or DVWA
-- Practice on real bug bounty programs (HackerOne, Bugcrowd)
+- **Hack The Box** labs
+- **OWASP Juice Shop**
+- **Damn Vulnerable Web Application (DVWA)**
+- Public programs via **HackerOne** or **Bugcrowd**
 
 > **`“The best payload isn’t in a list. It’s in your head.”`**
 {: .filepath }

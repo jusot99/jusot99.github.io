@@ -1,21 +1,30 @@
 ---
-title: "Google Hacking: The Ultimate Recon Mindset & Cheat Sheet"
+title: "Search Engine Reconnaissance for Security Assessments"
 description: >
-  Google hacking isn’t about fancy queries, it’s about seeing the internet like an attacker.
-  This guide builds your recon mindset, then arms you with the strongest dorks to uncover exposed secrets, forgotten files, and hidden doors.
+  A practical methodology for leveraging search engines during security assessments.
+  Covers operators, query construction, and techniques for identifying exposed assets,
+  sensitive files, and misconfigurations across internet-facing infrastructure.
 author:
 name:
 date: 2025-07-07 18:00:00 +0000
-categories: [Pentesting]
-tags: [googlehacking, recon, mindset, dorking, intelligence]
+categories: [Research]
+tags: [osint, reconnaissance, search-engines, dorking, exposure-discovery, methodology, intelligence]
+image:
+  path: /assets/posts/osint-recon-methods.png
 ---
+
+Search engines remain one of the most effective reconnaissance tools available during security assessments.
+
+Public indexing continuously exposes misconfigurations, forgotten assets, sensitive documents, and development artifacts. When used methodically, search queries can surface risks faster than active scanning and with significantly less noise.
+
+This guide documents a structured approach to search‑engine–based reconnaissance, including core operators, query composition, and repeatable discovery techniques used in professional engagements.
 
 > *"The best recon artists don’t just use Google. They think like Google."*
 {: .prompt-tip }
 
 ---
 
-## Phase 0 — Think Like a Recon Ninja
+## Phase 0: Think Like a Recon Ninja
 
 - **Expand your mental model:** The internet is a giant indexed database of human mistakes.
 - **Less noise, more signal:** Craft tight, targeted queries instead of blasting keywords.
@@ -26,7 +35,7 @@ tags: [googlehacking, recon, mindset, dorking, intelligence]
 
 ---
 
-## Phase 1 — Master the Core Google Operators
+## Phase 1: Master the Core Google Operators
 
 | Operator       | Description | Example |
 |----------------|-------------|---------|
@@ -45,7 +54,7 @@ tags: [googlehacking, recon, mindset, dorking, intelligence]
 
 ---
 
-## Phase 2 — Stack Queries Like a Pro
+## Phase 2: Stack Queries Like a Pro
 
 > *"True power comes from combining operators."*
 {: .prompt-tip }
@@ -60,7 +69,7 @@ tags: [googlehacking, recon, mindset, dorking, intelligence]
 
 ---
 
-## Phase 3 — Target High-Risk Files & Endpoints
+## Phase 3: Target High-Risk Files & Endpoints
 
 ### Dork Targets to Prioritize
 
@@ -79,7 +88,7 @@ tags: [googlehacking, recon, mindset, dorking, intelligence]
 
 ---
 
-## Phase 4 — Quick Reference CLI Dorking
+## Phase 4: Quick Reference CLI Dorking
 
 ### ddgr (DuckDuckGo CLI)
 
@@ -93,7 +102,7 @@ ddgr 'ext:log | ext:env | ext:sql site:.com'
 
 ---
 
-## Phase 5 — Target Vulnerable Parameters
+## Phase 5: Target Vulnerable Parameters
 
 | Type              | Example Vulnerable Queries |                |                 |
 | ----------------- | -------------------------- | -------------- | --------------- |
@@ -105,11 +114,11 @@ ddgr 'ext:log | ext:env | ext:sql site:.com'
 | **RCE**           | \`inurl\:cmd=              | inurl\:exec=   | inurl\:run=\`   |
 
 > *"Don’t just scan. Follow the parameters. That’s where developers hide trust."*
-> {: .prompt-tip }
+{: .prompt-tip }
 
 ---
 
-## Phase 6 — Use Dedicated Dork Engines
+## Phase 6: Use Dedicated Dork Engines
 
 ### 🛠 Supercharge with These
 
@@ -118,17 +127,17 @@ ddgr 'ext:log | ext:env | ext:sql site:.com'
 * [Exploit-DB GHDB](https://www.exploit-db.com/google-hacking-database) thousands of proven dorks.
 
 > If Google starts throttling you, switch to DuckDuckGo or Yandex for a new index view.
-> {: .prompt-info }
+{: .prompt-info }
 
 ---
 
-## Final Quotes to Burn Into Your Mind
+## Final Thought
 
 > **"Google is the biggest database of human mistakes ever created. Your job is to know how to ask."**
-> {: .prompt-tip }
+{: .prompt-tip }
 
 > **"Don’t hunt random data. Hunt assumptions. That’s where the real holes are."**
-> {: .prompt-tip }
+{: .prompt-tip }
 
 ---
 
@@ -142,4 +151,4 @@ ddgr 'ext:log | ext:env | ext:sql site:.com'
 * [ ] Always ask: *Who put this online, and why?*
 
 > *"Google hacking is the art of finding what no one meant to show you."*
-> {: .prompt-tip }
+{: .prompt-tip }

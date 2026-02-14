@@ -25,7 +25,7 @@ Most high-impact findings come from:
 Tools assist.  
 Methodology determines success.
 
-This is the structured workflow I use during professional engagements.
+This workflow represents a field‑tested methodology for conducting consistent, high‑quality web application security assessments.
 
 > “The surface is just HTML. The real vulnerabilities hide behind logic, endpoints, and trust.”
 {: .prompt-info }

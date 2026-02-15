@@ -242,13 +242,11 @@ Once you’ve got your hands dirty, start looking beyond one-off hacks. Real gro
 - [ ] Join CTFs, fail, learn, repeat
 - [ ] Keep organized notes and cheat sheets
 
-> *`“The best hackers don’t memorize tools. They memorize questions.”`*{: .filepath}
-
 ---
 
 ## Final Thought
 
-> *"The best operators don’t memorize tools. They memorize questions."*
+> *`"The best operators don’t memorize tools. They memorize questions."`*{: .filepath}
 
 - Systems first, methodology second, tooling third  
 - Build artifacts, share knowledge, operate with precision  

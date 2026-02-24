@@ -141,6 +141,7 @@ Treat this document as a working reference for practitioners who need dependable
 - [HackerRepo](https://hackerrepo.org/) – Curated repository of hacking and security resources.  
 - [SQLi Pentest Toolkit](https://adce626.github.io/SQLi-Pentest-Toolkit/) — SQL Injection exploitation utilities
 - [LostSec](https://lostsec.xyz/) – A great collection of offensive security knowledge and techniques.  
+- [Hacking Articles](https://www.hackingarticles.in) - Raj Chandel’s blog covering pentesting, red teaming, web security, OSINT, cloud security, and privacy-focused tutorials.
 - [KC7 Cyber](https://kc7cyber.com/) — Cybersecurity wargame for students  
 - [Codingame](https://www.codingame.com/start/) – Solve programming puzzles and compete through gamified coding challenges.  
 - [Microcorruption](https://microcorruption.com/) – A gamified reverse engineering CTF with embedded systems focus.  

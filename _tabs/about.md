@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## Elimane D.
+## Elimane D
 
 **Offensive Security Specialist**
 
@@ -14,6 +14,6 @@ My experience covers Linux and Windows systems, web applications, internal netwo
 
 I build custom tools and automation in Python, Bash, and PowerShell, and I document everything I learn through labs, writeups, and open-source projects.
 
-Most of my research, tools, and notes are published in [PwnHub](https://github.com/jusot99/pwnhub), my public repository where I share scripts, experiments, and practical security workflows. You can also follow my training and challenge progress on [Hack The Box](https://app.hackthebox.com/profile/1448044).
+Most of my research, tools, and notes are published in [PwnHub](https://github.com/jusot99/pwnhub), my public repository where I share scripts, experiments, and practical security workflows. You can also follow my training and challenge progress on [Hack The Box](https://app.hackthebox.com/public/users/1448044).
 
 Everything here is built for learning, responsible testing, and helping systems become more secure.

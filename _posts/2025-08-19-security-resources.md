@@ -131,7 +131,7 @@ Treat this document as a working reference for practitioners who need dependable
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) – Massive collection of hacking tools and resources.  
 - [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) – Curated list of bug bounty resources.  
 - [TBHM](https://github.com/jhaddix/tbhm) – The Bug Hunter’s Methodology (Jason Haddix).  
-- [pwnhub](https://github.com/jusot99/pwnhub) – A growing collection of hacking writeups, scripts, and resources.  
+- [jusotlabs](https://github.com/jusot99/jusotlabs) – A growing collection of hacking writeups, scripts, and resources.  
 - [Awesome Red Team Cheatsheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet) – A massive collection of red team tactics, tools, and references.  
 - [Ghostpack Compiled Binaries](https://github.com/r3motecontrol/Ghostpack-CompiledBinaries) – Precompiled Ghostpack binaries useful for red team operations.  
 - [HackerTyper](https://hackertyper.net/#) – Fun website to “look like” you’re coding like a hacker.  

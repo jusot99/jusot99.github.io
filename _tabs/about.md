@@ -6,15 +6,13 @@ order: 4
 
 ## Elimane D
 
-**Offensive Security Specialist**
+Systems break where trust is misplaced. I find those edges, cross them, and write down the path.
 
-I focus on hands-on offensive security and practical penetration testing, working in controlled lab environments to understand how systems fail and how to secure them effectively.
+This blog covers the methodology behind the compromise, from recon to privilege escalation and everything in between.
 
-My experience covers Linux and Windows systems, web applications, internal networks, and identity-based environments. I regularly practice techniques such as privilege escalation, lateral movement, post-exploitation, and security assessments to simulate real-world threats and improve defensive posture.
+Tools, scripts, and writeups are published openly on GitHub:
 
-I build custom tools and automation in Python, Bash, and PowerShell, and I document everything I learn through labs, writeups, and open-source projects.
-
-Most of my research, tools, and notes are published in [JusotLabs](https://github.com/jusot99/jusotlabs), my public repository where I share scripts, experiments, and practical security workflows. You can also follow my training and challenge progress on [Hack The Box](https://app.hackthebox.com/public/users/1448044).
-I also use [Hack The Box Academy](https://referral.hackthebox.com/mzBAiBw) to refine my offensive security skills
-
-Everything here is built for learning, responsible testing, and helping systems become more secure.
+- [JusotLabs](https://github.com/jusot99/jusotlabs) » tools, scripts, writeups
+- [qost](https://github.com/jusot99/qost) » DNS recon, port scanning, AD enumeration CLI
+- [GitHub](https://github.com/jusot99) » all projects
+- [Hack The Box](https://app.hackthebox.com/public/users/1448044) » training and challenges

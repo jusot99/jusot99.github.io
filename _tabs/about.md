@@ -6,6 +6,8 @@ order: 4
 
 ## Elimane D
 
+**Availability: Q3 2027**
+
 Systems break where trust is misplaced. I find those edges, cross them, and write down the path.
 
 This blog covers the methodology behind the compromise, from recon to privilege escalation and everything in between.

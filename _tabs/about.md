@@ -12,7 +12,8 @@ This blog covers the methodology behind the compromise, from recon to privilege 
 
 Tools, scripts, and writeups are published openly on GitHub:
 
-- [JusotLabs](https://github.com/jusot99/jusotlabs) » tools, scripts, writeups
 - [qost](https://github.com/jusot99/qost) » DNS recon, port scanning, AD enumeration CLI
+- [JusotLabs](https://github.com/jusot99/jusotlabs) » tools, scripts, writeups
+- [Vesper](https://vesper-viz.vercel.app) » supply-chain attack visualization, dependency graph, CVE enrichment, propagation simulation
 - [GitHub](https://github.com/jusot99) » all projects
 - [Hack The Box](https://app.hackthebox.com/public/users/1448044) » training and challenges
